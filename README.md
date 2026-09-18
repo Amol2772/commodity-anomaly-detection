@@ -6,8 +6,8 @@ wants a heads-up on. I built it end-to-end: pulled and cleaned the data myself, 
 couple of real bugs along the way rather than shipping around them, and tested the results
 against an independent method instead of just trusting the first approach that worked.
 
-**Live demo:** _[add your Streamlit Cloud link here once deployed]_
-**Repo:** _[add your GitHub link here]_
+**Live demo:** https://commodity-anomaly-detection.streamlit.app/
+**Repo:**
 
 ## Why I built it this way
 
