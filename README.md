@@ -7,6 +7,7 @@ couple of real bugs along the way rather than shipping around them, and tested t
 against an independent method instead of just trusting the first approach that worked.
 
 **Live demo:** https://commodity-anomaly-detection.streamlit.app/
+
 **Repo:**https://github.com/Amol2772/commodity-anomaly-detection
 
 ## Why I built it this way
